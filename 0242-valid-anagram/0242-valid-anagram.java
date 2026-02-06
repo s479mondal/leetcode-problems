@@ -5,20 +5,24 @@ class Solution {
         return false;
        }
        int l=s.length();
-       int fr[]=new int[26];
+       HashMap<Character,Integer> map=new HashMap<>();
+
         for(int i=0;i<l;i++)
         {
-            fr[s.charAt(i)-'a']++;
-            fr[t.charAt(i)-'a']--;
+            map.put(s.charAt(i),map.getOrDefault(s.charAt(i),0)+1);
         }
-        for(int i=0;i<26;i++)
+        for(char a:t.toCharArray())
         {
-            if(fr[i]!=0)
+            if(!map.containsKey(a))
             {
                 return false;
             }
+            map.put(a,map.get(a)-1);
+            if(map.get(a)==0)
+            {
+                map.remove(a);
+            }
         }
-        return true;
-
+        return map.isEmpty();
     }
 }
