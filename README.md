@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/s479mondal/leetcode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/s479mondal/leetcode-problems/tree/master/0128-longest-consecutive-sequence) |
+| [0169-majority-element](https://github.com/s479mondal/leetcode-problems/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/s479mondal/leetcode-problems/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/s479mondal/leetcode-problems/tree/master/0560-subarray-sum-equals-k) |
 ## Hash Table
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/s479mondal/leetcode-problems/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/s479mondal/leetcode-problems/tree/master/0141-linked-list-cycle) |
+| [0169-majority-element](https://github.com/s479mondal/leetcode-problems/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/s479mondal/leetcode-problems/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/s479mondal/leetcode-problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/s479mondal/leetcode-problems/tree/master/0560-subarray-sum-equals-k) |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/s479mondal/leetcode-problems/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/s479mondal/leetcode-problems/tree/master/0242-valid-anagram) |
 ## Stack
 |  |
@@ -79,9 +82,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/s479mondal/leetcode-problems/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/s479mondal/leetcode-problems/tree/master/0191-number-of-1-bits) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/s479mondal/leetcode-problems/tree/master/0191-number-of-1-bits) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/s479mondal/leetcode-problems/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
