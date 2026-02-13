@@ -9,7 +9,6 @@ class Solution {
         {
             g=gcd(g,numsDivide[i]);
         }
-
         Arrays.sort(nums);
             System.out.println(g);
         for(int i=0;i<nums.length;i++)
