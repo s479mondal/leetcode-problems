@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/s479mondal/leetcode-problems/tree/master/0143-reorder-list) |
+| [0225-implement-stack-using-queues](https://github.com/s479mondal/leetcode-problems/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/s479mondal/leetcode-problems/tree/master/0234-palindrome-linked-list) |
 ## Math
 |  |
@@ -125,4 +126,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1095-find-in-mountain-array](https://github.com/s479mondal/leetcode-problems/tree/master/1095-find-in-mountain-array) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/s479mondal/leetcode-problems/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/s479mondal/leetcode-problems/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
