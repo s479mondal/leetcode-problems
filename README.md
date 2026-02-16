@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/s479mondal/leetcode-problems/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/s479mondal/leetcode-problems/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/s479mondal/leetcode-problems/tree/master/0125-valid-palindrome) |
+| [0214-shortest-palindrome](https://github.com/s479mondal/leetcode-problems/tree/master/0214-shortest-palindrome) |
 | [0242-valid-anagram](https://github.com/s479mondal/leetcode-problems/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/s479mondal/leetcode-problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0516-longest-palindromic-subsequence](https://github.com/s479mondal/leetcode-problems/tree/master/0516-longest-palindromic-subsequence) |
@@ -142,4 +143,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/s479mondal/leetcode-problems/tree/master/0014-longest-common-prefix) |
+## Rolling Hash
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/s479mondal/leetcode-problems/tree/master/0214-shortest-palindrome) |
+## String Matching
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/s479mondal/leetcode-problems/tree/master/0214-shortest-palindrome) |
+## Hash Function
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/s479mondal/leetcode-problems/tree/master/0214-shortest-palindrome) |
 <!---LeetCode Topics End-->
