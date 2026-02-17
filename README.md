@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/s479mondal/leetcode-problems/tree/master/0014-longest-common-prefix) |
+| [0042-trapping-rain-water](https://github.com/s479mondal/leetcode-problems/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/s479mondal/leetcode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/s479mondal/leetcode-problems/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/s479mondal/leetcode-problems/tree/master/0169-majority-element) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/s479mondal/leetcode-problems/tree/master/0005-longest-palindromic-substring) |
+| [0042-trapping-rain-water](https://github.com/s479mondal/leetcode-problems/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/s479mondal/leetcode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/s479mondal/leetcode-problems/tree/master/0198-house-robber) |
 | [0516-longest-palindromic-subsequence](https://github.com/s479mondal/leetcode-problems/tree/master/0516-longest-palindromic-subsequence) |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/s479mondal/leetcode-problems/tree/master/0005-longest-palindromic-substring) |
+| [0042-trapping-rain-water](https://github.com/s479mondal/leetcode-problems/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/s479mondal/leetcode-problems/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/s479mondal/leetcode-problems/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/s479mondal/leetcode-problems/tree/master/0143-reorder-list) |
@@ -86,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/s479mondal/leetcode-problems/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/s479mondal/leetcode-problems/tree/master/0143-reorder-list) |
 | [0225-implement-stack-using-queues](https://github.com/s479mondal/leetcode-problems/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/s479mondal/leetcode-problems/tree/master/0234-palindrome-linked-list) |
@@ -155,4 +159,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/s479mondal/leetcode-problems/tree/master/0214-shortest-palindrome) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/s479mondal/leetcode-problems/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
