@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/s479mondal/leetcode-problems/tree/master/0014-longest-common-prefix) |
 | [0042-trapping-rain-water](https://github.com/s479mondal/leetcode-problems/tree/master/0042-trapping-rain-water) |
+| [0054-spiral-matrix](https://github.com/s479mondal/leetcode-problems/tree/master/0054-spiral-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/s479mondal/leetcode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/s479mondal/leetcode-problems/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/s479mondal/leetcode-problems/tree/master/0169-majority-element) |
@@ -172,4 +173,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/s479mondal/leetcode-problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/s479mondal/leetcode-problems/tree/master/0022-generate-parentheses) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/s479mondal/leetcode-problems/tree/master/0054-spiral-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/s479mondal/leetcode-problems/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
