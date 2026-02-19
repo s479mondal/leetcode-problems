@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1095-find-in-mountain-array](https://github.com/s479mondal/leetcode-problems/tree/master/1095-find-in-mountain-array) |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/s479mondal/leetcode-problems/tree/master/2344-minimum-deletions-to-make-array-divisible) |
 | [3233-find-the-count-of-numbers-which-are-not-special](https://github.com/s479mondal/leetcode-problems/tree/master/3233-find-the-count-of-numbers-which-are-not-special) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/s479mondal/leetcode-problems/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 ## Hash Table
 |  |
 | ------- |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/s479mondal/leetcode-problems/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/s479mondal/leetcode-problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/s479mondal/leetcode-problems/tree/master/0560-subarray-sum-equals-k) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/s479mondal/leetcode-problems/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/s479mondal/leetcode-problems/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/s479mondal/leetcode-problems/tree/master/2344-minimum-deletions-to-make-array-divisible) |
 | [3233-find-the-count-of-numbers-which-are-not-special](https://github.com/s479mondal/leetcode-problems/tree/master/3233-find-the-count-of-numbers-which-are-not-special) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/s479mondal/leetcode-problems/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 ## Union-Find
 |  |
 | ------- |
