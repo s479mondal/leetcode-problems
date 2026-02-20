@@ -1,13 +1,13 @@
 class Solution {
     public int minAddToMakeValid(String s) {
-        char c[]=s.toCharArray();
+    
 
         int left=0;     
         int right=0;
         int ans=0;
-        for(int i=0;i<c.length;i++)
+        for(int i=0;i<s.length();i++)
         {
-            char cr=c[i];
+            char cr=s.charAt(i);
             if(cr=='(')
             {
                 left++;
