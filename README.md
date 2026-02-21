@@ -199,12 +199,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0129-sum-root-to-leaf-numbers](https://github.com/s479mondal/leetcode-problems/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0543-diameter-of-binary-tree](https://github.com/s479mondal/leetcode-problems/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0129-sum-root-to-leaf-numbers](https://github.com/s479mondal/leetcode-problems/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0543-diameter-of-binary-tree](https://github.com/s479mondal/leetcode-problems/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0129-sum-root-to-leaf-numbers](https://github.com/s479mondal/leetcode-problems/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0543-diameter-of-binary-tree](https://github.com/s479mondal/leetcode-problems/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
