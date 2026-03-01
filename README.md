@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/s479mondal/leetcode-problems/tree/master/0647-palindromic-substrings) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/s479mondal/leetcode-problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1143-longest-common-subsequence](https://github.com/s479mondal/leetcode-problems/tree/master/1143-longest-common-subsequence) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/s479mondal/leetcode-problems/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1903-largest-odd-number-in-string](https://github.com/s479mondal/leetcode-problems/tree/master/1903-largest-odd-number-in-string) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/s479mondal/leetcode-problems/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Sliding Window
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/s479mondal/leetcode-problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/s479mondal/leetcode-problems/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1903-largest-odd-number-in-string](https://github.com/s479mondal/leetcode-problems/tree/master/1903-largest-odd-number-in-string) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/s479mondal/leetcode-problems/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Tree
