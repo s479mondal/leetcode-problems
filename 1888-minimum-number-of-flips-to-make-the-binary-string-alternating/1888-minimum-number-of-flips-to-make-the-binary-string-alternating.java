@@ -25,7 +25,7 @@ class Solution {
                 if(ct!=left1) d1--;
                 if(ct!=left2) d2--;
             }
-            if(i>=n-1)
+            if(i>=n)
             {
                 res=Math.min(res,Math.min(d1,d2));
             }
