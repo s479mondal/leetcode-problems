@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/s479mondal/leetcode-problems/tree/master/0283-move-zeroes) |
 | [0560-subarray-sum-equals-k](https://github.com/s479mondal/leetcode-problems/tree/master/0560-subarray-sum-equals-k) |
 | [1095-find-in-mountain-array](https://github.com/s479mondal/leetcode-problems/tree/master/1095-find-in-mountain-array) |
+| [1250-check-if-it-is-a-good-array](https://github.com/s479mondal/leetcode-problems/tree/master/1250-check-if-it-is-a-good-array) |
 | [1550-three-consecutive-odds](https://github.com/s479mondal/leetcode-problems/tree/master/1550-three-consecutive-odds) |
 | [1980-find-unique-binary-string](https://github.com/s479mondal/leetcode-problems/tree/master/1980-find-unique-binary-string) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/s479mondal/leetcode-problems/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0172-factorial-trailing-zeroes](https://github.com/s479mondal/leetcode-problems/tree/master/0172-factorial-trailing-zeroes) |
 | [0268-missing-number](https://github.com/s479mondal/leetcode-problems/tree/master/0268-missing-number) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/s479mondal/leetcode-problems/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [1250-check-if-it-is-a-good-array](https://github.com/s479mondal/leetcode-problems/tree/master/1250-check-if-it-is-a-good-array) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/s479mondal/leetcode-problems/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1903-largest-odd-number-in-string](https://github.com/s479mondal/leetcode-problems/tree/master/1903-largest-odd-number-in-string) |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/s479mondal/leetcode-problems/tree/master/2344-minimum-deletions-to-make-array-divisible) |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [1250-check-if-it-is-a-good-array](https://github.com/s479mondal/leetcode-problems/tree/master/1250-check-if-it-is-a-good-array) |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/s479mondal/leetcode-problems/tree/master/2344-minimum-deletions-to-make-array-divisible) |
 | [3233-find-the-count-of-numbers-which-are-not-special](https://github.com/s479mondal/leetcode-problems/tree/master/3233-find-the-count-of-numbers-which-are-not-special) |
 ## Binary Search
