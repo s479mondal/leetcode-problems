@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1980-find-unique-binary-string](https://github.com/s479mondal/leetcode-problems/tree/master/1980-find-unique-binary-string) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/s479mondal/leetcode-problems/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/s479mondal/leetcode-problems/tree/master/2344-minimum-deletions-to-make-array-divisible) |
+| [2906-construct-product-matrix](https://github.com/s479mondal/leetcode-problems/tree/master/2906-construct-product-matrix) |
 | [3233-find-the-count-of-numbers-which-are-not-special](https://github.com/s479mondal/leetcode-problems/tree/master/3233-find-the-count-of-numbers-which-are-not-special) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/s479mondal/leetcode-problems/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 ## Hash Table
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/s479mondal/leetcode-problems/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/s479mondal/leetcode-problems/tree/master/0560-subarray-sum-equals-k) |
+| [2906-construct-product-matrix](https://github.com/s479mondal/leetcode-problems/tree/master/2906-construct-product-matrix) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -230,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/s479mondal/leetcode-problems/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/s479mondal/leetcode-problems/tree/master/0074-search-a-2d-matrix) |
+| [2906-construct-product-matrix](https://github.com/s479mondal/leetcode-problems/tree/master/2906-construct-product-matrix) |
 ## Simulation
 |  |
 | ------- |
