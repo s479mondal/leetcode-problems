@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/s479mondal/leetcode-problems/tree/master/2344-minimum-deletions-to-make-array-divisible) |
 | [2401-longest-nice-subarray](https://github.com/s479mondal/leetcode-problems/tree/master/2401-longest-nice-subarray) |
 | [2906-construct-product-matrix](https://github.com/s479mondal/leetcode-problems/tree/master/2906-construct-product-matrix) |
+| [2942-find-words-containing-character](https://github.com/s479mondal/leetcode-problems/tree/master/2942-find-words-containing-character) |
 | [3233-find-the-count-of-numbers-which-are-not-special](https://github.com/s479mondal/leetcode-problems/tree/master/3233-find-the-count-of-numbers-which-are-not-special) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/s479mondal/leetcode-problems/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 ## Hash Table
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1980-find-unique-binary-string](https://github.com/s479mondal/leetcode-problems/tree/master/1980-find-unique-binary-string) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/s479mondal/leetcode-problems/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/s479mondal/leetcode-problems/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [2942-find-words-containing-character](https://github.com/s479mondal/leetcode-problems/tree/master/2942-find-words-containing-character) |
 | [3210-find-the-encrypted-string](https://github.com/s479mondal/leetcode-problems/tree/master/3210-find-the-encrypted-string) |
 ## Sliding Window
 |  |
