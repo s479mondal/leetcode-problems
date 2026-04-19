@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/s479mondal/leetcode-problems/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/s479mondal/leetcode-problems/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/s479mondal/leetcode-problems/tree/master/1248-count-number-of-nice-subarrays) |
+| [1370-increasing-decreasing-string](https://github.com/s479mondal/leetcode-problems/tree/master/1370-increasing-decreasing-string) |
 | [1980-find-unique-binary-string](https://github.com/s479mondal/leetcode-problems/tree/master/1980-find-unique-binary-string) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/s479mondal/leetcode-problems/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/s479mondal/leetcode-problems/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0709-to-lower-case](https://github.com/s479mondal/leetcode-problems/tree/master/0709-to-lower-case) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/s479mondal/leetcode-problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1143-longest-common-subsequence](https://github.com/s479mondal/leetcode-problems/tree/master/1143-longest-common-subsequence) |
+| [1370-increasing-decreasing-string](https://github.com/s479mondal/leetcode-problems/tree/master/1370-increasing-decreasing-string) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/s479mondal/leetcode-problems/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/s479mondal/leetcode-problems/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/s479mondal/leetcode-problems/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/s479mondal/leetcode-problems/tree/master/0169-majority-element) |
 | [0992-subarrays-with-k-different-integers](https://github.com/s479mondal/leetcode-problems/tree/master/0992-subarrays-with-k-different-integers) |
+| [1370-increasing-decreasing-string](https://github.com/s479mondal/leetcode-problems/tree/master/1370-increasing-decreasing-string) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
