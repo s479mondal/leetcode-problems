@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2401-longest-nice-subarray](https://github.com/s479mondal/leetcode-problems/tree/master/2401-longest-nice-subarray) |
 | [2906-construct-product-matrix](https://github.com/s479mondal/leetcode-problems/tree/master/2906-construct-product-matrix) |
 | [2942-find-words-containing-character](https://github.com/s479mondal/leetcode-problems/tree/master/2942-find-words-containing-character) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/s479mondal/leetcode-problems/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3233-find-the-count-of-numbers-which-are-not-special](https://github.com/s479mondal/leetcode-problems/tree/master/3233-find-the-count-of-numbers-which-are-not-special) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/s479mondal/leetcode-problems/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 ## Hash Table
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2520-count-the-digits-that-divide-a-number](https://github.com/s479mondal/leetcode-problems/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2652-sum-multiples](https://github.com/s479mondal/leetcode-problems/tree/master/2652-sum-multiples) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/s479mondal/leetcode-problems/tree/master/2894-divisible-and-non-divisible-sums-difference) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/s479mondal/leetcode-problems/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3233-find-the-count-of-numbers-which-are-not-special](https://github.com/s479mondal/leetcode-problems/tree/master/3233-find-the-count-of-numbers-which-are-not-special) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/s479mondal/leetcode-problems/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 ## Union-Find
