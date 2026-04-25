@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1250-check-if-it-is-a-good-array](https://github.com/s479mondal/leetcode-problems/tree/master/1250-check-if-it-is-a-good-array) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/s479mondal/leetcode-problems/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1550-three-consecutive-odds](https://github.com/s479mondal/leetcode-problems/tree/master/1550-three-consecutive-odds) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/s479mondal/leetcode-problems/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/s479mondal/leetcode-problems/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1980-find-unique-binary-string](https://github.com/s479mondal/leetcode-problems/tree/master/1980-find-unique-binary-string) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/s479mondal/leetcode-problems/tree/master/2078-two-furthest-houses-with-different-colors) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/s479mondal/leetcode-problems/tree/master/1248-count-number-of-nice-subarrays) |
 | [1250-check-if-it-is-a-good-array](https://github.com/s479mondal/leetcode-problems/tree/master/1250-check-if-it-is-a-good-array) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/s479mondal/leetcode-problems/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/s479mondal/leetcode-problems/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1903-largest-odd-number-in-string](https://github.com/s479mondal/leetcode-problems/tree/master/1903-largest-odd-number-in-string) |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/s479mondal/leetcode-problems/tree/master/2344-minimum-deletions-to-make-array-divisible) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/s479mondal/leetcode-problems/tree/master/2520-count-the-digits-that-divide-a-number) |
