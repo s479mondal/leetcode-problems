@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/s479mondal/leetcode-problems/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/s479mondal/leetcode-problems/tree/master/0014-longest-common-prefix) |
 | [0042-trapping-rain-water](https://github.com/s479mondal/leetcode-problems/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/s479mondal/leetcode-problems/tree/master/0053-maximum-subarray) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/s479mondal/leetcode-problems/tree/master/0005-longest-palindromic-substring) |
+| [0011-container-with-most-water](https://github.com/s479mondal/leetcode-problems/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/s479mondal/leetcode-problems/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/s479mondal/leetcode-problems/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/s479mondal/leetcode-problems/tree/master/0125-valid-palindrome) |
@@ -306,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/s479mondal/leetcode-problems/tree/master/0011-container-with-most-water) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/s479mondal/leetcode-problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/s479mondal/leetcode-problems/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1903-largest-odd-number-in-string](https://github.com/s479mondal/leetcode-problems/tree/master/1903-largest-odd-number-in-string) |
