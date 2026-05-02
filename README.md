@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/s479mondal/leetcode-problems/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/s479mondal/leetcode-problems/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/s479mondal/leetcode-problems/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/s479mondal/leetcode-problems/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/s479mondal/leetcode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/s479mondal/leetcode-problems/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/s479mondal/leetcode-problems/tree/master/0198-house-robber) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/s479mondal/leetcode-problems/tree/master/0009-palindrome-number) |
+| [0070-climbing-stairs](https://github.com/s479mondal/leetcode-problems/tree/master/0070-climbing-stairs) |
 | [0172-factorial-trailing-zeroes](https://github.com/s479mondal/leetcode-problems/tree/master/0172-factorial-trailing-zeroes) |
 | [0268-missing-number](https://github.com/s479mondal/leetcode-problems/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/s479mondal/leetcode-problems/tree/master/0367-valid-perfect-square) |
@@ -370,4 +372,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0456-132-pattern](https://github.com/s479mondal/leetcode-problems/tree/master/0456-132-pattern) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/s479mondal/leetcode-problems/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
