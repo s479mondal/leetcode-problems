@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/s479mondal/leetcode-problems/tree/master/0647-palindromic-substrings) |
 | [0657-robot-return-to-origin](https://github.com/s479mondal/leetcode-problems/tree/master/0657-robot-return-to-origin) |
 | [0709-to-lower-case](https://github.com/s479mondal/leetcode-problems/tree/master/0709-to-lower-case) |
+| [0796-rotate-string](https://github.com/s479mondal/leetcode-problems/tree/master/0796-rotate-string) |
 | [0859-buddy-strings](https://github.com/s479mondal/leetcode-problems/tree/master/0859-buddy-strings) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/s479mondal/leetcode-problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1143-longest-common-subsequence](https://github.com/s479mondal/leetcode-problems/tree/master/1143-longest-common-subsequence) |
@@ -289,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/s479mondal/leetcode-problems/tree/master/0214-shortest-palindrome) |
+| [0796-rotate-string](https://github.com/s479mondal/leetcode-problems/tree/master/0796-rotate-string) |
 ## Hash Function
 |  |
 | ------- |
