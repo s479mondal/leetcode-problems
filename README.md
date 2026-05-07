@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0456-132-pattern](https://github.com/s479mondal/leetcode-problems/tree/master/0456-132-pattern) |
 | [0560-subarray-sum-equals-k](https://github.com/s479mondal/leetcode-problems/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/s479mondal/leetcode-problems/tree/master/0713-subarray-product-less-than-k) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/s479mondal/leetcode-problems/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0904-fruit-into-baskets](https://github.com/s479mondal/leetcode-problems/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/s479mondal/leetcode-problems/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/s479mondal/leetcode-problems/tree/master/0992-subarrays-with-k-different-integers) |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0456-132-pattern](https://github.com/s479mondal/leetcode-problems/tree/master/0456-132-pattern) |
 | [0633-sum-of-square-numbers](https://github.com/s479mondal/leetcode-problems/tree/master/0633-sum-of-square-numbers) |
 | [0713-subarray-product-less-than-k](https://github.com/s479mondal/leetcode-problems/tree/master/0713-subarray-product-less-than-k) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/s479mondal/leetcode-problems/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/s479mondal/leetcode-problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1095-find-in-mountain-array](https://github.com/s479mondal/leetcode-problems/tree/master/1095-find-in-mountain-array) |
 ## Interactive
