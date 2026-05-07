@@ -1,9 +1,7 @@
 class Solution {
     public boolean judgeSquareSum(int c) {
-        long n=(long)Math.sqrt(c);
-        int low=0;
-        long high=n;
-        int mid=0;
+        long low=0;
+        long high=(long)Math.sqrt(c);
         while(low<=high)
         {
             long sum=low*low+high*high;
@@ -21,6 +19,5 @@ class Solution {
             }
         }
         return false;
-        
     }
 }
