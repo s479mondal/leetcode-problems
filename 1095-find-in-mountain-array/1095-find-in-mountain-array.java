@@ -8,77 +8,72 @@
  */
  
 class Solution {
-    public int ass(MountainArray arr, int l,int r,int t)
+    public int binaryA(int t,MountainArray mountainArr, int low, int high)
     {
-        while(l<=r)
+        while(low<=high)
         {
-            int m=l+(r-l)/2;
-            if(arr.get(m)==t)
+            int mid=low+(high-low)/2;
+            if(mountainArr.get(mid)==t)
             {
-                return m;
+                return mid;
             }
-            if(arr.get(m)>t)
+            if(mountainArr.get(mid)>t)
             {
-                r=m-1;
+                high=mid-1;
             }
             else
             {
-                l=m+1;
+                low=mid+1;
             }
         }
         return -1;
     }
-    public int dss(MountainArray arr, int l, int r, int t)
+    public int binaryD(int t,MountainArray mountainArr, int low, int high)
     {
-        
-        while(l<=r)
+        while(low<=high)
         {
-            int m=l+(r-l)/2;
-            if(arr.get(m)==t)
+            int mid=(high+low)/2;
+            if(mountainArr.get(mid)==t)
             {
-                return m;
+                return mid;
             }
-            if(arr.get(m)>t)
+            if(mountainArr.get(mid)>t)
             {
-                l=m+1;
+                low=mid+1;
             }
             else
             {
-                r=m-1;
+                high=mid-1;
             }
-
         }
         return -1;
     }
     public int findInMountainArray(int target, MountainArray mountainArr) {
-
-        int l=0;
-        int r=mountainArr.length()-1;
-        while(l< r)
+        int low=0;
+        int high=mountainArr.length()-1;
+        while(low<high)
         {
-            int m=l+(r-l)/2;
-            if(mountainArr.get(m)>mountainArr.get(m+1))
+            int mid=(low+high)/2;
+            if(mountainArr.get(mid)>mountainArr.get(mid+1))
             {
-                r=m;
+                high=mid;
             }
             else
             {
-                l=m+1;
+                low=mid+1;
             }
         }
-        int p=l;
-
-        int in=ass(mountainArr,0,p,target);
-        if(in!=-1)
+        int p=low;
+        int ass=binaryA(target,mountainArr,0,p);
+        if(ass!=-1)
         {
-            return in;
+            return ass;
         }
-        int io=dss(mountainArr,p+1,mountainArr.length()-1,target);
-        if(io!=-1)
+        int dss=binaryD(target,mountainArr,p+1,mountainArr.length()-1);
+        if(dss!=-1)
         {
-            return io;
+            return dss;
         }
         return -1;
-        
     }
 }
