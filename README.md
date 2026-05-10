@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/s479mondal/leetcode-problems/tree/master/0283-move-zeroes) |
 | [0456-132-pattern](https://github.com/s479mondal/leetcode-problems/tree/master/0456-132-pattern) |
 | [0560-subarray-sum-equals-k](https://github.com/s479mondal/leetcode-problems/tree/master/0560-subarray-sum-equals-k) |
+| [0561-array-partition](https://github.com/s479mondal/leetcode-problems/tree/master/0561-array-partition) |
 | [0713-subarray-product-less-than-k](https://github.com/s479mondal/leetcode-problems/tree/master/0713-subarray-product-less-than-k) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/s479mondal/leetcode-problems/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0904-fruit-into-baskets](https://github.com/s479mondal/leetcode-problems/tree/master/0904-fruit-into-baskets) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/s479mondal/leetcode-problems/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/s479mondal/leetcode-problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/s479mondal/leetcode-problems/tree/master/0268-missing-number) |
+| [0561-array-partition](https://github.com/s479mondal/leetcode-problems/tree/master/0561-array-partition) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/s479mondal/leetcode-problems/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/s479mondal/leetcode-problems/tree/master/2344-minimum-deletions-to-make-array-divisible) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/s479mondal/leetcode-problems/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
@@ -338,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/s479mondal/leetcode-problems/tree/master/0011-container-with-most-water) |
+| [0561-array-partition](https://github.com/s479mondal/leetcode-problems/tree/master/0561-array-partition) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/s479mondal/leetcode-problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/s479mondal/leetcode-problems/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1903-largest-odd-number-in-string](https://github.com/s479mondal/leetcode-problems/tree/master/1903-largest-odd-number-in-string) |
@@ -397,4 +400,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/s479mondal/leetcode-problems/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/s479mondal/leetcode-problems/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/s479mondal/leetcode-problems/tree/master/1137-n-th-tribonacci-number) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/s479mondal/leetcode-problems/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
