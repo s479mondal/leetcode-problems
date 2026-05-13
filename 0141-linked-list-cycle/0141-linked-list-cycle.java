@@ -26,7 +26,6 @@ public class Solution {
             {
                 return true;
             }
-            t=t.next;
         }
         return false;
     }
