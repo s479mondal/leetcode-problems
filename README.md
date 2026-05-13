@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/s479mondal/leetcode-problems/tree/master/0014-longest-common-prefix) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/s479mondal/leetcode-problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/s479mondal/leetcode-problems/tree/master/0042-trapping-rain-water) |
+| [0049-group-anagrams](https://github.com/s479mondal/leetcode-problems/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/s479mondal/leetcode-problems/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/s479mondal/leetcode-problems/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/s479mondal/leetcode-problems/tree/master/0074-search-a-2d-matrix) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/s479mondal/leetcode-problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/s479mondal/leetcode-problems/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0049-group-anagrams](https://github.com/s479mondal/leetcode-problems/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/s479mondal/leetcode-problems/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/s479mondal/leetcode-problems/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/s479mondal/leetcode-problems/tree/master/0141-linked-list-cycle) |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/s479mondal/leetcode-problems/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/s479mondal/leetcode-problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/s479mondal/leetcode-problems/tree/master/0022-generate-parentheses) |
+| [0049-group-anagrams](https://github.com/s479mondal/leetcode-problems/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/s479mondal/leetcode-problems/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/s479mondal/leetcode-problems/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/s479mondal/leetcode-problems/tree/master/0151-reverse-words-in-a-string) |
@@ -199,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/s479mondal/leetcode-problems/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/s479mondal/leetcode-problems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/s479mondal/leetcode-problems/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/s479mondal/leetcode-problems/tree/master/0169-majority-element) |
