@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/s479mondal/leetcode-problems/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/s479mondal/leetcode-problems/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/s479mondal/leetcode-problems/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/s479mondal/leetcode-problems/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/s479mondal/leetcode-problems/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/s479mondal/leetcode-problems/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/s479mondal/leetcode-problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/s479mondal/leetcode-problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/s479mondal/leetcode-problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/s479mondal/leetcode-problems/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/s479mondal/leetcode-problems/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/s479mondal/leetcode-problems/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/s479mondal/leetcode-problems/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/s479mondal/leetcode-problems/tree/master/0141-linked-list-cycle) |
@@ -345,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/s479mondal/leetcode-problems/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/s479mondal/leetcode-problems/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/s479mondal/leetcode-problems/tree/master/0074-search-a-2d-matrix) |
 | [1672-richest-customer-wealth](https://github.com/s479mondal/leetcode-problems/tree/master/1672-richest-customer-wealth) |
 | [2906-construct-product-matrix](https://github.com/s479mondal/leetcode-problems/tree/master/2906-construct-product-matrix) |
