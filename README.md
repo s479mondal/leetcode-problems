@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/s479mondal/leetcode-problems/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/s479mondal/leetcode-problems/tree/master/0283-move-zeroes) |
 | [0456-132-pattern](https://github.com/s479mondal/leetcode-problems/tree/master/0456-132-pattern) |
+| [0496-next-greater-element-i](https://github.com/s479mondal/leetcode-problems/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/s479mondal/leetcode-problems/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/s479mondal/leetcode-problems/tree/master/0561-array-partition) |
 | [0713-subarray-product-less-than-k](https://github.com/s479mondal/leetcode-problems/tree/master/0713-subarray-product-less-than-k) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/s479mondal/leetcode-problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/s479mondal/leetcode-problems/tree/master/0268-missing-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/s479mondal/leetcode-problems/tree/master/0424-longest-repeating-character-replacement) |
+| [0496-next-greater-element-i](https://github.com/s479mondal/leetcode-problems/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/s479mondal/leetcode-problems/tree/master/0560-subarray-sum-equals-k) |
 | [0859-buddy-strings](https://github.com/s479mondal/leetcode-problems/tree/master/0859-buddy-strings) |
 | [0904-fruit-into-baskets](https://github.com/s479mondal/leetcode-problems/tree/master/0904-fruit-into-baskets) |
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/s479mondal/leetcode-problems/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/s479mondal/leetcode-problems/tree/master/0234-palindrome-linked-list) |
 | [0456-132-pattern](https://github.com/s479mondal/leetcode-problems/tree/master/0456-132-pattern) |
+| [0496-next-greater-element-i](https://github.com/s479mondal/leetcode-problems/tree/master/0496-next-greater-element-i) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/s479mondal/leetcode-problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/s479mondal/leetcode-problems/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Math
@@ -340,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/s479mondal/leetcode-problems/tree/master/0042-trapping-rain-water) |
 | [0456-132-pattern](https://github.com/s479mondal/leetcode-problems/tree/master/0456-132-pattern) |
+| [0496-next-greater-element-i](https://github.com/s479mondal/leetcode-problems/tree/master/0496-next-greater-element-i) |
 ## Backtracking
 |  |
 | ------- |
