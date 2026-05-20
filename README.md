@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/s479mondal/leetcode-problems/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/s479mondal/leetcode-problems/tree/master/2344-minimum-deletions-to-make-array-divisible) |
 | [2401-longest-nice-subarray](https://github.com/s479mondal/leetcode-problems/tree/master/2401-longest-nice-subarray) |
+| [2540-minimum-common-value](https://github.com/s479mondal/leetcode-problems/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/s479mondal/leetcode-problems/tree/master/2553-separate-the-digits-in-an-array) |
 | [2784-check-if-array-is-good](https://github.com/s479mondal/leetcode-problems/tree/master/2784-check-if-array-is-good) |
 | [2906-construct-product-matrix](https://github.com/s479mondal/leetcode-problems/tree/master/2906-construct-product-matrix) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/s479mondal/leetcode-problems/tree/master/1248-count-number-of-nice-subarrays) |
 | [1370-increasing-decreasing-string](https://github.com/s479mondal/leetcode-problems/tree/master/1370-increasing-decreasing-string) |
 | [1980-find-unique-binary-string](https://github.com/s479mondal/leetcode-problems/tree/master/1980-find-unique-binary-string) |
+| [2540-minimum-common-value](https://github.com/s479mondal/leetcode-problems/tree/master/2540-minimum-common-value) |
 | [2784-check-if-array-is-good](https://github.com/s479mondal/leetcode-problems/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/s479mondal/leetcode-problems/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/s479mondal/leetcode-problems/tree/master/3005-count-elements-with-maximum-frequency) |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-middle-of-the-linked-list](https://github.com/s479mondal/leetcode-problems/tree/master/0876-middle-of-the-linked-list) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/s479mondal/leetcode-problems/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/s479mondal/leetcode-problems/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2540-minimum-common-value](https://github.com/s479mondal/leetcode-problems/tree/master/2540-minimum-common-value) |
 ## Recursion
 |  |
 | ------- |
@@ -309,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/s479mondal/leetcode-problems/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/s479mondal/leetcode-problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1095-find-in-mountain-array](https://github.com/s479mondal/leetcode-problems/tree/master/1095-find-in-mountain-array) |
+| [2540-minimum-common-value](https://github.com/s479mondal/leetcode-problems/tree/master/2540-minimum-common-value) |
 ## Interactive
 |  |
 | ------- |
