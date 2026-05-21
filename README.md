@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0214-shortest-palindrome](https://github.com/s479mondal/leetcode-problems/tree/master/0214-shortest-palindrome) |
 | [0242-valid-anagram](https://github.com/s479mondal/leetcode-problems/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/s479mondal/leetcode-problems/tree/master/0424-longest-repeating-character-replacement) |
+| [0504-base-7](https://github.com/s479mondal/leetcode-problems/tree/master/0504-base-7) |
 | [0516-longest-palindromic-subsequence](https://github.com/s479mondal/leetcode-problems/tree/master/0516-longest-palindromic-subsequence) |
 | [0647-palindromic-substrings](https://github.com/s479mondal/leetcode-problems/tree/master/0647-palindromic-substrings) |
 | [0657-robot-return-to-origin](https://github.com/s479mondal/leetcode-problems/tree/master/0657-robot-return-to-origin) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0172-factorial-trailing-zeroes](https://github.com/s479mondal/leetcode-problems/tree/master/0172-factorial-trailing-zeroes) |
 | [0268-missing-number](https://github.com/s479mondal/leetcode-problems/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/s479mondal/leetcode-problems/tree/master/0367-valid-perfect-square) |
+| [0504-base-7](https://github.com/s479mondal/leetcode-problems/tree/master/0504-base-7) |
 | [0509-fibonacci-number](https://github.com/s479mondal/leetcode-problems/tree/master/0509-fibonacci-number) |
 | [0633-sum-of-square-numbers](https://github.com/s479mondal/leetcode-problems/tree/master/0633-sum-of-square-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/s479mondal/leetcode-problems/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
