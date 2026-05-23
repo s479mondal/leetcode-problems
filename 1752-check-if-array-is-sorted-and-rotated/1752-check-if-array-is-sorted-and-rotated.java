@@ -7,7 +7,7 @@ class Solution {
             {
                 c++;
             }
-        }   
+        }
         if(nums[nums.length-1]>nums[0])
         {
             c++;
