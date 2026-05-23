@@ -284,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0191-number-of-1-bits](https://github.com/s479mondal/leetcode-problems/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/s479mondal/leetcode-problems/tree/master/0268-missing-number) |
+| [0693-binary-number-with-alternating-bits](https://github.com/s479mondal/leetcode-problems/tree/master/0693-binary-number-with-alternating-bits) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/s479mondal/leetcode-problems/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [2401-longest-nice-subarray](https://github.com/s479mondal/leetcode-problems/tree/master/2401-longest-nice-subarray) |
 ## Counting
