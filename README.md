@@ -265,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/s479mondal/leetcode-problems/tree/master/1248-count-number-of-nice-subarrays) |
 | [1250-check-if-it-is-a-good-array](https://github.com/s479mondal/leetcode-problems/tree/master/1250-check-if-it-is-a-good-array) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/s479mondal/leetcode-problems/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1486-xor-operation-in-an-array](https://github.com/s479mondal/leetcode-problems/tree/master/1486-xor-operation-in-an-array) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/s479mondal/leetcode-problems/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1903-largest-odd-number-in-string](https://github.com/s479mondal/leetcode-problems/tree/master/1903-largest-odd-number-in-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/s479mondal/leetcode-problems/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -292,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/s479mondal/leetcode-problems/tree/master/0268-missing-number) |
 | [0693-binary-number-with-alternating-bits](https://github.com/s479mondal/leetcode-problems/tree/master/0693-binary-number-with-alternating-bits) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/s479mondal/leetcode-problems/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [1486-xor-operation-in-an-array](https://github.com/s479mondal/leetcode-problems/tree/master/1486-xor-operation-in-an-array) |
 | [2401-longest-nice-subarray](https://github.com/s479mondal/leetcode-problems/tree/master/2401-longest-nice-subarray) |
 ## Counting
 |  |
