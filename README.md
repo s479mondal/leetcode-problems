@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/s479mondal/leetcode-problems/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/s479mondal/leetcode-problems/tree/master/1248-count-number-of-nice-subarrays) |
 | [1370-increasing-decreasing-string](https://github.com/s479mondal/leetcode-problems/tree/master/1370-increasing-decreasing-string) |
+| [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/s479mondal/leetcode-problems/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [1980-find-unique-binary-string](https://github.com/s479mondal/leetcode-problems/tree/master/1980-find-unique-binary-string) |
 | [2540-minimum-common-value](https://github.com/s479mondal/leetcode-problems/tree/master/2540-minimum-common-value) |
 | [2784-check-if-array-is-good](https://github.com/s479mondal/leetcode-problems/tree/master/2784-check-if-array-is-good) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/s479mondal/leetcode-problems/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/s479mondal/leetcode-problems/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/s479mondal/leetcode-problems/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
+| [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/s479mondal/leetcode-problems/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [1880-check-if-word-equals-summation-of-two-words](https://github.com/s479mondal/leetcode-problems/tree/master/1880-check-if-word-equals-summation-of-two-words) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/s479mondal/leetcode-problems/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1903-largest-odd-number-in-string](https://github.com/s479mondal/leetcode-problems/tree/master/1903-largest-odd-number-in-string) |
@@ -303,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/s479mondal/leetcode-problems/tree/master/0169-majority-element) |
 | [0992-subarrays-with-k-different-integers](https://github.com/s479mondal/leetcode-problems/tree/master/0992-subarrays-with-k-different-integers) |
 | [1370-increasing-decreasing-string](https://github.com/s479mondal/leetcode-problems/tree/master/1370-increasing-decreasing-string) |
+| [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/s479mondal/leetcode-problems/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [2833-furthest-point-from-origin](https://github.com/s479mondal/leetcode-problems/tree/master/2833-furthest-point-from-origin) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/s479mondal/leetcode-problems/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Heap (Priority Queue)
