@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/s479mondal/leetcode-problems/tree/master/1248-count-number-of-nice-subarrays) |
 | [1250-check-if-it-is-a-good-array](https://github.com/s479mondal/leetcode-problems/tree/master/1250-check-if-it-is-a-good-array) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/s479mondal/leetcode-problems/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/s479mondal/leetcode-problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1550-three-consecutive-odds](https://github.com/s479mondal/leetcode-problems/tree/master/1550-three-consecutive-odds) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/s479mondal/leetcode-problems/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1672-richest-customer-wealth](https://github.com/s479mondal/leetcode-problems/tree/master/1672-richest-customer-wealth) |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/s479mondal/leetcode-problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/s479mondal/leetcode-problems/tree/master/0268-missing-number) |
 | [0561-array-partition](https://github.com/s479mondal/leetcode-problems/tree/master/0561-array-partition) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/s479mondal/leetcode-problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/s479mondal/leetcode-problems/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/s479mondal/leetcode-problems/tree/master/2344-minimum-deletions-to-make-array-divisible) |
 | [2784-check-if-array-is-good](https://github.com/s479mondal/leetcode-problems/tree/master/2784-check-if-array-is-good) |
@@ -313,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/s479mondal/leetcode-problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/s479mondal/leetcode-problems/tree/master/2344-minimum-deletions-to-make-array-divisible) |
 ## Number Theory
 |  |
