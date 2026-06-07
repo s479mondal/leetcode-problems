@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/s479mondal/leetcode-problems/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/s479mondal/leetcode-problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1095-find-in-mountain-array](https://github.com/s479mondal/leetcode-problems/tree/master/1095-find-in-mountain-array) |
+| [1207-unique-number-of-occurrences](https://github.com/s479mondal/leetcode-problems/tree/master/1207-unique-number-of-occurrences) |
 | [1248-count-number-of-nice-subarrays](https://github.com/s479mondal/leetcode-problems/tree/master/1248-count-number-of-nice-subarrays) |
 | [1250-check-if-it-is-a-good-array](https://github.com/s479mondal/leetcode-problems/tree/master/1250-check-if-it-is-a-good-array) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/s479mondal/leetcode-problems/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/s479mondal/leetcode-problems/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/s479mondal/leetcode-problems/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/s479mondal/leetcode-problems/tree/master/0992-subarrays-with-k-different-integers) |
+| [1207-unique-number-of-occurrences](https://github.com/s479mondal/leetcode-problems/tree/master/1207-unique-number-of-occurrences) |
 | [1248-count-number-of-nice-subarrays](https://github.com/s479mondal/leetcode-problems/tree/master/1248-count-number-of-nice-subarrays) |
 | [1370-increasing-decreasing-string](https://github.com/s479mondal/leetcode-problems/tree/master/1370-increasing-decreasing-string) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/s479mondal/leetcode-problems/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
