@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/s479mondal/leetcode-problems/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/s479mondal/leetcode-problems/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/s479mondal/leetcode-problems/tree/master/0283-move-zeroes) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/s479mondal/leetcode-problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0456-132-pattern](https://github.com/s479mondal/leetcode-problems/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/s479mondal/leetcode-problems/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/s479mondal/leetcode-problems/tree/master/0560-subarray-sum-equals-k) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/s479mondal/leetcode-problems/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/s479mondal/leetcode-problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/s479mondal/leetcode-problems/tree/master/0268-missing-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/s479mondal/leetcode-problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/s479mondal/leetcode-problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/s479mondal/leetcode-problems/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/s479mondal/leetcode-problems/tree/master/0560-subarray-sum-equals-k) |
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/s479mondal/leetcode-problems/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/s479mondal/leetcode-problems/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/s479mondal/leetcode-problems/tree/master/0283-move-zeroes) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/s479mondal/leetcode-problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0443-string-compression](https://github.com/s479mondal/leetcode-problems/tree/master/0443-string-compression) |
 | [0633-sum-of-square-numbers](https://github.com/s479mondal/leetcode-problems/tree/master/0633-sum-of-square-numbers) |
 | [0647-palindromic-substrings](https://github.com/s479mondal/leetcode-problems/tree/master/0647-palindromic-substrings) |
@@ -250,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/s479mondal/leetcode-problems/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/s479mondal/leetcode-problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/s479mondal/leetcode-problems/tree/master/0268-missing-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/s479mondal/leetcode-problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0561-array-partition](https://github.com/s479mondal/leetcode-problems/tree/master/0561-array-partition) |
 | [0977-squares-of-a-sorted-array](https://github.com/s479mondal/leetcode-problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/s479mondal/leetcode-problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -347,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/s479mondal/leetcode-problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/s479mondal/leetcode-problems/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/s479mondal/leetcode-problems/tree/master/0268-missing-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/s479mondal/leetcode-problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/s479mondal/leetcode-problems/tree/master/0367-valid-perfect-square) |
 | [0456-132-pattern](https://github.com/s479mondal/leetcode-problems/tree/master/0456-132-pattern) |
 | [0633-sum-of-square-numbers](https://github.com/s479mondal/leetcode-problems/tree/master/0633-sum-of-square-numbers) |
